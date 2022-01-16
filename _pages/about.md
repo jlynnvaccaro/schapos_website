@@ -2,32 +2,23 @@
 layout: about
 title: about
 permalink: /
-description: <b>Professor</b> of <a href="https://mscs.uic.edu">Mathematics, Statistics, and Computer Science</a>
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: lev.jpg
-  address: 
+  image: prof_pic.jpg
+  address: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
-news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
-socialcontact: true  # includes social icons under photo
+news: true  # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
-<sub><sub><sub><span style="font-size:xx-large;">&ldquo;</span></sub></sub></sub>Laura Schaposnik is an Associate Professor of Mathematics at the University of Illinois at Chicago.
-After receiving her degree of Licenciada en Matemáticas from the University of La Plata, she obtained her DPhil 
-from the University of Oxford. After graduation she was post-doctoral researcher at the University of Heidelberg 
-and the University of Illinois at Urbana Champaign.  She moved to Chicago to take up a faculty position at the 
-University of Illinois at Chicago (UIC) in 2015, where she is currently an Associate Professor. 
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Laura's research focuses on the study of the geometry and topology of the moduli spaces of decorated bundles,
-especially Higgs bundles and Hitchin systems, and geometric structures they parametrize.  Research on 
-the moduli spaces of Higgs bundles has yielded connections between fundamental areas of mathematics and theoretical 
-physics, blending ideas from algebraic and differential geometry, Lie theory, representation theory, and string theory. 
-Her work has appeared in the Journal of Differential Geometry, Transactions of the AMS, Communications in Mathematical 
-Physics, Advances in Theoretical and Mathematical Physics,  Proceedings of the Royal Society A, among other outlets. 
-<hr>
-<span style="font-size:15px">
-My research at UIC has been supported by the following:
-</span>
+Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
