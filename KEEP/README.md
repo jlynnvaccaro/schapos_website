@@ -1,6 +1,10 @@
 # How to set up and edit the website
 J Vaccaro
 
+Prereqs:
+* Ruby
+* Git
+
 ## Repository content (code, files, etc.)
 
 There are several ways to edit and add content. This section covers the git terminal instructions for setting up and editing your repository content locally.
